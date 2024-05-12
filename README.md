@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @labdhie
+- 👋 Hi, I’m @LabdhieBendey
 - 👀 I’m interested in software and hardware development projects.
 - 🌱 I’m currently learning Electronics and Communiication Engineering.
 - 💞️ I’m looking to collaborate on ...
